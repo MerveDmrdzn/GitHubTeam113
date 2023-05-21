@@ -8,5 +8,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/MerveDmrdzn/GitHubTeam113.git
 git push -u origin main*/
+
+        System.out.println("oynuyorum bakalım");
     }
 }
